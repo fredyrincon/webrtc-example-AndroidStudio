@@ -1,0 +1,4 @@
+/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/classes/debug
+/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-4e5f32caf1cc997aa36101f4ac52f1a39a137e43.jar
+/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-5cd077b14bfbcd74a6853d844b79eb525f7f7346.jar
+/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/classes-3954f02819e6e84650003837bea580f0304b58e2.jar

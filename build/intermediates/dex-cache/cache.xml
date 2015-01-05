@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-5cd077b14bfbcd74a6853d844b79eb525f7f7346.jar" />
+    </item>
+    <item
+        jar="/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/classes-3954f02819e6e84650003837bea580f0304b58e2.jar" />
+    </item>
+    <item
+        jar="/Users/SafeCode/Documents/android_sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/SafeCode/Documents/Projects/android_studio_workspace/AndroidExamples/webrtc-example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-4e5f32caf1cc997aa36101f4ac52f1a39a137e43.jar" />
+    </item>
+
+</items>
