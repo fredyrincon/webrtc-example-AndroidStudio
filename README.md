@@ -9,5 +9,13 @@ This is a repository with useful examples for developing apps using the Chromium
 
 -----------------------------------------------------------------------
 
+WebRTC
+
+This example can be run in OS L (sdk 21) the WebView will support WebRTC.
+
+The methods this example relies may change as this is only a preview.
+
+
+
 
 
